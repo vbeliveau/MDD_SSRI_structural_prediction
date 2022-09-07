@@ -1,2 +1,1 @@
-# MDD_SSRI_structural_prediction
-Predicting Treatment Outcome in Major Depressive Disorder Using Structural MRI: A NeuroPharm Study
+Repository for the source code used to produce the results in the paper **Predicting Treatment Response in Major Depressive Disorder using Structural MRI: A NeuroPharm Study**.
